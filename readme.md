@@ -206,4 +206,14 @@ if __name__ == "__main__":
 Este projeto foi capaz de automatizar a extração de dados do site do TCE-SP, coletando informações relevantes sobre processos de jurisprudência, como número do processo, data de autuação, partes envolvidas, matéria e URL dos itens. A aplicação conseguiu iterar por todas as páginas de resultados, extraindo um total de X registros, onde X representa o número de documentos capturados. Os dados foram salvos com sucesso em um arquivo JSON, e a conexão com o MongoDB foi configurada para armazenar os resultados no banco de dados para uma análise posterior. A quantidade de registros extraídos correspondeu à quantidade esperada, validando a eficácia da raspagem de dados implementada.
 
 ## Melhorias para o Futuro
-Apesar dos resultados positivos, algumas melhorias podem ser implementadas para aumentar a robustez e a eficiência do processo. Primeiro, o tratamento de exceções pode ser aprimorado para lidar melhor com possíveis falhas na conexão com o site ou com o MongoDB, garantindo que a execução continue sem perder dados importantes. Além disso, a integração de um sistema de logging pode facilitar o monitoramento e a detecção de problemas durante a execução do script. Outra melhoria seria a paralelização do processo de extração, o que poderia reduzir significativamente o tempo total de execução. Também seria interessante implementar uma interface gráfica para facilitar o uso e a configuração do script por usuários não técnicos. Por fim, a inclusão de testes automatizados pode assegurar que futuras alterações no código não afetem negativamente a funcionalidade do sistema.
+Apesar dos resultados positivos, algumas melhorias podem ser implementadas para aumentar a robustez e a eficiência do processo. Primeiro, o tratamento de exceções pode ser aprimorado para lidar melhor com possíveis falhas na conexão com o site ou com o MongoDB, garantindo que a execução continue sem perder dados importantes. Além disso, a integração de um sistema de logging pode facilitar o monitoramento e a detecção de problemas durante a execução do script. Outra melhoria seria a paralelização do processo de extração, o que poderia reduzir significativamente o tempo total de execução. Também seria interessante implementar uma interface gráfica para facilitar o uso e a configuração do script por usuários não técnicos. Por fim, a inclusão de testes automatizados pode assegurar que futuras alterações no código não afetem negativamente a funcionalidade do sistema.# Web_Crawler-Raspagem_de_dados-TCE_SP-fraude_em_escolas
+
+
+## Projetos relacionados
+A baixo segue a lista de projetos relacionados a construção de Web Crawler e Web Scraper que realizei.
+
+Análise de ações B3: https://github.com/MikeWilliamm/Projeto_acoes-Python-SQL-PowerBI
+Montagem de catálogo de produto: https://github.com/MikeWilliamm/Montagem_de_catalogo-Web_Scraper-
+Análise de sorteios loto fácil: https://github.com/MikeWilliamm/Dados_Lotofacil-Web_Scraper
+Dados de imoveis: https://github.com/MikeWilliamm/Dados_Imoveis-Web_Scraper
+Dados de podcast: https://github.com/MikeWilliamm/Dados_Podcast-Web_Scraper
