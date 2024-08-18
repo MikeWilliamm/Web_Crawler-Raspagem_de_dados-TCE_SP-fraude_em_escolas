@@ -212,8 +212,8 @@ Apesar dos resultados positivos, algumas melhorias podem ser implementadas para 
 ## Projetos relacionados
 A baixo segue a lista de projetos relacionados a construção de Web Crawler e Web Scraper que realizei.
 
-Análise de ações B3: https://github.com/MikeWilliamm/Projeto_acoes-Python-SQL-PowerBI
-Montagem de catálogo de produto: https://github.com/MikeWilliamm/Montagem_de_catalogo-Web_Scraper-
-Análise de sorteios loto fácil: https://github.com/MikeWilliamm/Dados_Lotofacil-Web_Scraper
-Dados de imoveis: https://github.com/MikeWilliamm/Dados_Imoveis-Web_Scraper
-Dados de podcast: https://github.com/MikeWilliamm/Dados_Podcast-Web_Scraper
+<p>Análise de ações B3: https://github.com/MikeWilliamm/Projeto_acoes-Python-SQL-PowerBI<\p>
+<p>Montagem de catálogo de produto: https://github.com/MikeWilliamm/Montagem_de_catalogo-Web_Scraper-<\p>
+<p>Análise de sorteios loto fácil: https://github.com/MikeWilliamm/Dados_Lotofacil-Web_Scraper<\p>
+<p>Dados de imoveis: https://github.com/MikeWilliamm/Dados_Imoveis-Web_Scraper<\p>
+<p>Dados de podcast: https://github.com/MikeWilliamm/Dados_Podcast-Web_Scraper<\p>
